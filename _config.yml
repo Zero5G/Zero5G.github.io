@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: Zero5's Site
+description: idk
+
+layout: page
+title: "Showcase"
+permalink: /showcase/
+
+github:
+  showcase: http://zero5g.github.io/showcase
+  another_url: another value
