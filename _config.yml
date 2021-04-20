@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Zero5's Site
 description: idk
+show_downloads: true
 
 layout: page
 title: "Showcase"
