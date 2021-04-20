@@ -1,11 +1,11 @@
+layout: page
+title: "showcase"
+permalink: /showcase/
+
 theme: jekyll-theme-cayman
 title: Zero5's Site
 description: idk
 show_downloads: true
-
-layout: page
-title: "showcase"
-permalink: /showcase/
 
 github:
   showcase: http://zero5g.github.io/showcase/
