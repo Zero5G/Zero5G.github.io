@@ -1,6 +1,6 @@
 layout: page
 title: "Showcase"
-permalink: /showcase/
+permalink: /Showcase/
 
 theme: jekyll-theme-cayman
 title: Zero5's Site
@@ -8,4 +8,4 @@ description: idk
 show_downloads: true
 
 github:
-  showcase: http://zero5g.github.io/showcase/
+  showcase: http://zero5g.github.io/Showcase/
