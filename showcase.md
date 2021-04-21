@@ -1,6 +1,6 @@
 # Showcase
 ## Moulberry's Dungeons
-<details> <summary>Expand</summary>
+<details> <summary>Click here for more info</summary>
 
 | Name  | Room Type | Images |
 | ------------- | ------------- | ------------- |
