@@ -1,4 +1,4 @@
-# Zero6's Website
+# Zero5's Website
 This repository contain all my finished builds.
 
 ## [Showcase](https://github.com/Zero5G/Builds/blob/main/Showcase.md)
