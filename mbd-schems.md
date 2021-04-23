@@ -1,5 +1,15 @@
 <h1 id="mbd-schematics">MBD-Schematics</h1>
+<style>
+table {
+    width:100%;
+}
+</style>
 <table>
+<style>
+table {
+    width:100%;
+}
+</style>
 	<thead>
 		<tr>
 			<th>Name</th>
